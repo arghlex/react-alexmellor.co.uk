@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Overview
+
+Converting personal website, experimenting with React and React Router.
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
